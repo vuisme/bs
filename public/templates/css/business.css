@@ -1,0 +1,136 @@
+.box-green {
+
+    color: #9ABC32;
+
+}
+
+.box-blue {
+
+    color: #168AD5;
+
+}
+
+.box-orange {
+
+    color: #FF8528;
+
+}
+
+.box-red {
+
+    color: #D44040;
+
+}
+
+.title-header {
+
+    background-color: #F1F4D7 !important;
+
+    font-weight: bold;
+
+    color: #168AD5;
+
+}
+
+.title-header label {
+
+    padding: 5px;
+
+}
+
+.title-header label.active {
+
+    font-size: 28px;
+
+    margin-right: 10px;
+
+    margin-right: 10px;
+
+}
+
+.exTab .order-btn-calendar > .btn:first-child:not(:last-child):not(.dropdown-toggle) {
+
+    border-top-right-radius: 0;
+
+    border-bottom-right-radius: 0;
+
+}
+
+.exTab .order-btn-calendar button {
+
+    background-color: #fff;
+
+    border: 1px solid #0B87C9;
+
+}
+
+.exTab .form-datetime input:first-child {
+
+    border-top-right-radius: 0;
+
+    border-bottom-right-radius: 0;
+
+    border-right: 0;
+
+}
+
+.exTab .form-datetime input:last-child {
+
+    border-top-left-radius: 0;
+
+    border-bottom-left-radius: 0;
+
+    border-left: 0;
+
+}
+
+.exTab .search, .exTab .generality {
+
+    margin: 10px 0;
+
+}
+
+.exTab .report-box {
+
+    padding: 10px 0 10px 20px;
+
+    overflow: hidden;
+
+    -webkit-border-radius: 3px;
+
+    -moz-border-radius: 3px;
+
+    border-radius: 3px;
+
+    border: 1px dashed #000;
+
+}
+
+.exTab .report-box .infobox-icon {
+
+    float: left;
+
+    min-height: 100%;
+
+}
+
+.exTab .report-box .infobox-icon i.fa {
+
+    font-size: 32px;
+
+}
+
+.exTab .report-box .infobox-data {
+
+    width: 75%;
+
+    float: right;
+
+}
+
+.exTab .report-box .infobox-data p.infobox-title {
+
+    margin: 0;
+
+}
+

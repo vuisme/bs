@@ -1,0 +1,20 @@
+.icon_login {
+    position: absolute;
+    left: auto;
+    right: 7px;
+    top: 9px;
+    color: #909090;
+    font-size: 16px;
+}
+
+.href {
+    color: #2a6496;
+    cursor: pointer;
+}
+
+@media (min-width: 992px) {
+    #login_modal {
+        margin-left: -50px !important;
+    }
+}
+

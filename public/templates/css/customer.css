@@ -1,0 +1,32 @@
+.table-custom tbody tr td span.process {
+    padding: 5px;
+    background-color: #2D95DC;
+    color: #FFF;
+    border-radius: 20px;
+}
+
+span.status-text {
+    background-color: #efefef;
+    padding: 5px 10px;
+    border-radius: 20px;
+}
+
+span.status-text .process {
+    color: #2D95DC;
+}
+
+span.status-text .complete {
+    color: green;
+}
+
+span.status-text .receive {
+    color: #ac36ff;
+}
+
+span.status-text .checked-sell {
+    color: #B41EC3;
+}
+
+.border-less td {
+    border-top: 0 !important;
+}

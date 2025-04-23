@@ -1,0 +1,165 @@
+.blue {
+    background-color: #0094da;
+}
+
+.red {
+    background-color: red;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.green {
+    background-color: green;
+}
+
+.purple {
+    background-color: tomato;
+}
+
+.white {
+    background-color: white;
+}
+
+.sienna {
+    background: rebeccapurple;
+}
+
+.clblue {
+    color: blue;
+}
+
+.clorange {
+    color: orange;
+}
+
+.clgreen {
+    color: green;
+}
+
+.page-header {
+    margin: 20px 0;
+}
+
+.block01 .icon {
+    vertical-align: middle;
+    display: block;
+    line-height: 74px;
+    text-align: center;
+    font-size: 60px;
+}
+
+.block01 .icon span {
+    border-radius: 50%;
+    color: #FFF;
+}
+
+.block01 p.number {
+    font-size: 25px;
+    margin: 0;
+}
+
+.block01 .text01 {
+    margin: 0;
+    font-size: 16px;
+    color: teal;
+}
+
+.block01 p.text02 {
+    font-size: 16px;
+}
+
+.block02 {
+    border-radius: 5px;
+    color: #FFF;
+}
+
+.block02 .icon {
+    vertical-align: middle;
+    display: block;
+    line-height: 74px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.block02 .left {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.block02 .right {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.block02 div {
+    line-height: 40px;
+}
+
+.block02 .number {
+    font-size: 24px;
+}
+
+.active-current {
+    padding-left: 10px;
+}
+
+.active-current .block {
+    position: relative;
+}
+
+.active-current .block .icon {
+    position: absolute;
+    padding: 3px 6px;
+    border-radius: 50%;
+    color: #FFF;
+    left: 7px;
+    top: 15px;
+}
+
+.active-current .block .text {
+    margin-left: 5px;
+    padding-left: 22px;
+    border-left: 1px solid #dad6d6;
+}
+
+.active-current .block .icon.clipboard {
+    background-color: #2f91f7;
+}
+
+.active-current .block .icon.share-square {
+    background-color: #f72f49;
+}
+
+.active-current .block .time {
+    margin-bottom: 0;
+    padding-bottom: 10px;
+}
+
+.color_red {
+    color: darkred;
+}
+
+.color_green {
+    color: darkgreen;
+}
+
+.vertical_center_icon {
+    font-size: 60px;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.vertical_center_div {
+    font-size: 20px;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    text-align: center;
+}
